@@ -1,4 +1,4 @@
-## CALCULATOR
+## AFFIRMATIONS
 
 ### 如果有任何想法有關於我們的App，請聯絡
 
@@ -8,7 +8,7 @@
 
 ---------------------------------------------
 
-### [Home](https://yytechplayer.github.io/Calculator) 
+### [Home](https://yytechplayer.github.io/Affirmations) 
 
 ---------------------------------------------
 
