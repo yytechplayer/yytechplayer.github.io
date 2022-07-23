@@ -34,33 +34,18 @@ The above authorizations are necessary, otherwise the related functions of the p
 
 ==============
 
+Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
+
+
 Apple Inc.
 
 Cooperation content: 
 
 Software depends on App Store, iCloud, Apple iOS system and hardware devices produced by Apple
 
-Link: https://www.apple.com/legal/privacy/
+Link:
 
--------------------------------------------------------------------------------------------------------------
-
-Icons8 Inc.
-
-Cooperation content: 
-
-Some icons in the app.
-
-Link: 
-
-https://icons8.com/privacy-policy
-
-https://icons8.com/terms-and-conditions
-
-https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
-
--------------------------------------------------------------------------------------------------------------
-
-Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
+https://www.apple.com/legal/privacy/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -86,31 +71,18 @@ Our products may support third-party services and may change third-party service
 
 ==============
 
+我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
+
+
 Apple Inc.
 
 合作內容：
 
 軟件依存於App Store、iCloud、蘋果iOS系統以及蘋果公司生產的硬件設備
 
-鏈接：https://www.apple.com/legal/privacy/
+鏈接：
+
+https://www.apple.com/legal/privacy/
 
 
--------------------------------------------------------------------------------------------------------------
 
-Icons8 Inc.
-
-合作內容：
-
-一些App內的圖標.
-
-Link: 
-
-https://icons8.com/privacy-policy
-
-https://icons8.com/terms-and-conditions
-
-https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
-
--------------------------------------------------------------------------------------------------------------
-
-我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
