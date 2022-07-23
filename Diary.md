@@ -48,7 +48,7 @@ Icons8 Inc.
 
 Cooperation content: 
 
-Some app icons.
+Some icons in the app.
 
 Link: 
 
