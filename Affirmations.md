@@ -6,11 +6,13 @@
 
 ### yytechplayer@qq.com
 
+
 ---------------------------------------------
 
 ### [Home](https://yytechplayer.github.io/Affirmations) 
 
 ---------------------------------------------
+
 
 ## PrivacyPolicy
 
@@ -25,14 +27,20 @@ According to changes in laws and regulatory policies, our "Privacy Policy" is co
 If you do not agree to the revised "Privacy Policy", please immediately terminate the use of our products.
 
 (C). About the collection and use of personal information:
+
 We do not collect your personal information.
 
 Our products will ask you to obtain the following authorization during normal operation:
+
 Storage: Enter the storage space of your device for reading and managing data
 
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
 ==============
+
+Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
+
+-------------------------------------------------------------------------------------------------------------
 
 Apple Inc.
 
@@ -40,7 +48,9 @@ Cooperation content:
 
 Software depends on App Store, iCloud, Apple iOS system and hardware devices produced by Apple
 
-Link: https://www.apple.com/legal/privacy/
+Link: 
+
+https://www.apple.com/legal/privacy/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -72,9 +82,7 @@ Link:
 
 https://taira-komori.jpn.org/freesounden.html
 
--------------------------------------------------------------------------------------------------------------
 
-Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -99,6 +107,10 @@ Our products may support third-party services and may change third-party service
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
 ==============
+
+我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
+
+-------------------------------------------------------------------------------------------------------------
 
 Apple Inc.
 
@@ -140,7 +152,3 @@ App音效。
 鏈接：
 
 https://taira-komori.jpn.org/freesounden.html
-
--------------------------------------------------------------------------------------------------------------
-
-我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
