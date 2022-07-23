@@ -1,4 +1,4 @@
-## AppHome
+## yytechplayer
 
 ### 如果有任何想法有關於我們的App，請聯絡
 
@@ -8,13 +8,7 @@
 
 ---------------------------------------------
 
-```markdown
-
-[AppHome](https://yytechplayer.github.io) 
-
-```
-
-### [AppHome](https://yytechplayer.github.io) 
+### [Home](https://yytechplayer.github.io) 
 
 
 to maintain and preview the content for your website in Markdown files.
