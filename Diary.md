@@ -48,7 +48,9 @@ Cooperation content:
 
 Software depends on App Store, iCloud, Apple iOS system and hardware devices produced by Apple
 
-Link: https://www.apple.com/legal/privacy/
+Link: 
+
+https://www.apple.com/legal/privacy/
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -100,7 +102,9 @@ Apple Inc.
 
 軟件依存於App Store、iCloud、蘋果iOS系統以及蘋果公司生產的硬件設備。
 
-鏈接：https://www.apple.com/legal/privacy/
+鏈接：
+
+https://www.apple.com/legal/privacy/
 
 
 -------------------------------------------------------------------------------------------------------------
@@ -111,13 +115,14 @@ Icons8 Inc.
 
 一些App內的圖標。
 
-Link: 
+鏈接：
 
 https://icons8.com/privacy-policy
 
 https://icons8.com/terms-and-conditions
 
 https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
+
 
 
 
