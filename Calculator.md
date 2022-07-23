@@ -1,0 +1,123 @@
+## CALCULATOR
+
+
+### 如果有任何想法有關於我們的App，請聯絡
+
+### Anything about our App ? Tell me
+
+### yytechplayer@qq.com
+
+
+---------------------------------------------
+
+### [Home](https://yytechplayer.github.io/Calculator) 
+
+---------------------------------------------
+
+
+
+## PrivacyPolicy
+
+(A). Scope and content of the "Privacy Policy":
+
+Thank you for choosing to use our products. Please read our "Privacy Policy" carefully before using our products. Your use of our products will be regarded as your complete acceptance of this "Privacy Policy" and your commitment to comply with all applicable laws and regulations. If you do not agree with our "Privacy Policy", please do not use our products, if you have already started using our products, please immediately terminate the use, your use behavior, it is deemed that you agree that this "Privacy Policy" applies to you.
+
+(B). Update:
+
+According to changes in laws and regulatory policies, our "Privacy Policy" is constantly being improved. With the expansion of our products and services, we may update the "Privacy Policy" at any time. Please check it frequently for the latest "Privacy Policy". If the relevant update causes a substantial reduction in your rights under this "Privacy Policy", we will notify you of the prominent position on the product interface, the new content announcement of the new version of the software in the App Store, the website announcement, or send you an electronic notice before the amendment takes effect Notify you by email. Your continued use of our products in the future will be regarded as your complete acceptance of such updates. Your continued use of our products in the future will be regarded as your complete acceptance of such updates.
+
+If you do not agree to the revised "Privacy Policy", please immediately terminate the use of our products.
+
+(C). About the collection and use of personal information:
+We do not collect your personal information.
+
+Our products will ask you to obtain the following authorization during normal operation:
+Storage: Enter the storage space of your device for reading and managing data
+
+The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
+
+==============
+
+Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
+
+-------------------------------------------------------------------------------------------------------------
+
+Apple Inc.
+
+Cooperation content: 
+
+Software depends on App Store, iCloud, Apple iOS system and hardware devices produced by Apple
+
+Link: https://www.apple.com/legal/privacy/
+
+-------------------------------------------------------------------------------------------------------------
+
+Icons8 Inc.
+
+Cooperation content: 
+
+Some icons in the app.
+
+Link: 
+
+https://icons8.com/privacy-policy
+
+https://icons8.com/terms-and-conditions
+
+https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
+
+-------------------------------------------------------------------------------------------------------------
+
+一．《隱私政策》適用的範圍和內容
+
+感謝您選擇使用我們的產品， 在使用我們的產品前，請仔細閱讀我們的《隱私政策》。您對我們的產品的使用，將被視為您完全接受本《隱私政策》，並承諾遵守所有適用的法律和法規。如果您不同意我們的《隱私政策》，請勿使用我們的產品，如果您已經開始使用我們的產品，請您立即終止使用，您的使用行為，即視為您同意本《隱私政策》適用於您。
+
+二．更新
+
+根據法律和監管政策變化，我們的《隱私政策》正在不斷改進中，隨著我們的產品和服務範圍的擴大，我們可能隨時更新《隱私政策》。請您經常查看以了解最新的《隱私政策》。如果相關更新造成您在本《隱私政策》下權利的實質減少，我們將在修訂生效前通過在產品界面顯著位置提示、App Store中軟件新版本的新增內容公告、網站公告或向您發送電子郵件的方式通知您。您在此後對我們的產品的繼續使用，將被視為您完全接受此等更新。您在此後對我們的產品的繼續使用，將被視為您完全接受此等更新。
+
+如果您不同意更改後的《隱私政策》，請您立即終止使用我們的產品。
+
+三．個人信息收集與使用
+
+我們並不收集您的個人信息。
+
+我們的產品將在正常運行期間向您要求獲得以下授權：
+
+1.存儲：為讀取和管理數據進入您設備的存儲空間
+
+上述授權均為必要，否則產品的相關功能可能無法按設計運行。
+
+==============
+
+我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
+
+-------------------------------------------------------------------------------------------------------------
+
+Apple Inc.
+
+合作內容：
+
+軟件依存於App Store、iCloud、蘋果iOS系統以及蘋果公司生產的硬件設備。
+
+鏈接：https://www.apple.com/legal/privacy/
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Icons8 Inc.
+
+合作內容：
+
+一些App內的圖標。
+
+Link: 
+
+https://icons8.com/privacy-policy
+
+https://icons8.com/terms-and-conditions
+
+https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
+
+
+
