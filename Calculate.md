@@ -1,19 +1,5 @@
 ## 计算器
 
-
-### 如果有任何想法有关于我们的App，请联络
-
-### Anything about our App ? Tell me
-
-### yytechplayer@qq.com
-
-
----------------------------------------------
-
-### [Home](https://yytechplayer.github.io/Calculator) 
-
----------------------------------------------
-
 ## 隐私政策
 
 一．《隐私政策》适用的范围和内容
@@ -68,3 +54,20 @@ https://icons8.com/privacy-policy
 https://icons8.com/terms-and-conditions
 
 https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
+
+
+---------------------------------------------
+
+
+### 如果有任何想法有关于我们的App，请联络
+
+### Anything about our App ? Tell me
+
+### yytechplayer@qq.com
+
+
+---------------------------------------------
+
+### [Home](https://yytechplayer.github.io/Calculator) 
+
+---------------------------------------------
