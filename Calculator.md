@@ -114,7 +114,7 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 
 ### 如果有任何想法有關於我們的App，請聯絡
 
-### Anything about our App ? Tell me
+### Anything about our App ? Tell us
 
 ### yytechplayer@qq.com
 
