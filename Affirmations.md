@@ -141,9 +141,7 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 
 -------------------------------------------------------------------------------------------------------------
 
-Taira Komori
-
-"Let's Play with Free Sound Effects"
+--
 
 合作內容：
 
@@ -151,4 +149,4 @@ App音效。
 
 鏈接：
 
-https://taira-komori.jpn.org/freesounden.html
+--
