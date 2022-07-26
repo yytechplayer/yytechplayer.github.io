@@ -70,9 +70,7 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 
 -------------------------------------------------------------------------------------------------------------
 
-Taira Komori
-
-"Let's Play with Free Sound Effects"
+--
 
 Cooperation content: 
 
@@ -80,7 +78,7 @@ Sound Effects in the App.
 
 Link: 
 
-https://taira-komori.jpn.org/freesounden.html
+--
 
 
 
