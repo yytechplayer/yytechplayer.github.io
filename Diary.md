@@ -17,7 +17,10 @@ If you do not agree to the revised "Privacy Policy", please immediately terminat
 We do not collect your personal information.
 
 Our products will ask you to obtain the following authorization during normal operation:
+
 Storage: Enter the storage space of your device for reading and managing data
+
+Notifications: Send you notifications if you use the Reminder in this app
 
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
@@ -72,6 +75,8 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 我們的產品將在正常運行期間向您要求獲得以下授權：
 
 1.存儲：為讀取和管理數據進入您設備的存儲空間
+
+2.通知: 發送通知給你如果你使用定時通知功能
 
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
