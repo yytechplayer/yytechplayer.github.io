@@ -34,6 +34,12 @@ Our products will ask you to obtain the following authorization during normal op
 
 Storage: Enter the storage space of your device for reading and managing data
 
+Notifications: Send you notifications if you use the Reminder in this app
+
+Camera: Access the Camera if you use the Camera to set a picture as the background in this app
+
+Photos: Access the Photos if you use the Photos to set a picture as the background in this app
+
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
 ==============
@@ -102,6 +108,12 @@ https://maou.audio
 
 1.存儲：為讀取和管理數據進入您設備的存儲空間
 
+2.通知: 發送通知給你如果你使用定時通知功能
+
+3.拍照: 訪問相機如果你在此app中使用拍照功能獲取圖片用以設置背景圖片
+
+4.照片: 訪問照片如果你在此app中使用照片功能獲取圖片用以設置背景圖片
+
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
 ==============
@@ -148,6 +160,5 @@ App音效。
 鏈接：
 
 https://maou.audio
-
 
 
