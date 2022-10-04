@@ -1,19 +1,3 @@
-## AFFIRMATIONS
-
-### 如果有任何想法有關於我們的App，請聯絡
-
-### Anything about our App ? Tell me
-
-### yytechplayer@qq.com
-
-
----------------------------------------------
-
-### [Home](https://yytechplayer.github.io/Affirmations) 
-
----------------------------------------------
-
-
 ## PrivacyPolicy
 
 (A). Scope and content of the "Privacy Policy":
@@ -160,6 +144,26 @@ App音效。
 鏈接：
 
 https://maou.audio
+
+-------------------------------------------------------------------------------------------------------------
+
+## AFFIRMATIONS
+
+### 如果有任何想法有關於我們的App，請聯絡
+
+### Anything about our App ? Tell me
+
+### yytechplayer@qq.com
+
+
+-------------------------------------------------------------------------------------------------------------
+
+### [Home](https://yytechplayer.github.io/Affirmations) 
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
