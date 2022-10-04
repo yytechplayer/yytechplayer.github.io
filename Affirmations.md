@@ -1,7 +1,7 @@
 
 
 ## AFFIRMATIONS
--------------------------------------------------------------------------------------------------------------
+
 ## PrivacyPolicy
 
 (A). Scope and content of the "Privacy Policy":
