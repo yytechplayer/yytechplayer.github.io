@@ -84,6 +84,82 @@ https://maou.audio
 
 -------------------------------------------------------------------------------------------------------------
 
+## PrivacyPolicy
+
+(A). Scope and content of the "Privacy Policy":
+
+Thank you for choosing to use our products. Please read our "Privacy Policy" carefully before using our products. Your use of our products will be regarded as your complete acceptance of this "Privacy Policy" and your commitment to comply with all applicable laws and regulations. If you do not agree with our "Privacy Policy", please do not use our products, if you have already started using our products, please immediately terminate the use, your use behavior, it is deemed that you agree that this "Privacy Policy" applies to you.
+
+(B). Update:
+
+According to changes in laws and regulatory policies, our "Privacy Policy" is constantly being improved. With the expansion of our products and services, we may update the "Privacy Policy" at any time. Please check it frequently for the latest "Privacy Policy". If the relevant update causes a substantial reduction in your rights under this "Privacy Policy", we will notify you of the prominent position on the product interface or the new content announcement of the new version of the software in the App Store. Your continued use of our products in the future will be regarded as your complete acceptance of such updates.
+
+If you do not agree to the revised "Privacy Policy", please immediately terminate the use of our products.
+
+(C). About the collection and use of personal information:
+
+We do not collect your personal information.
+
+Our products will ask you to obtain the following authorization during normal operation:
+
+Notifications: Send you notifications if you use the Reminder in this app
+
+Camera: Access the Camera if you use the Camera to set a picture as the background in this app
+
+Photos: Access the Photos if you use the Photos to set a picture as the background in this app
+
+Photos: Access the Photos if you use the Save Image in this app to save the app screen capture to the Photo library
+
+The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
+
+==============
+
+Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
+
+-------------------------------------------------------------------------------------------------------------
+
+Apple Inc.
+
+Cooperation content: 
+
+Software depends on App Store, iCloud, Apple iOS system and hardware devices produced by Apple
+
+Link: 
+
+https://www.apple.com/legal/privacy/
+
+-------------------------------------------------------------------------------------------------------------
+
+Icons8 Inc.
+
+Cooperation content: 
+
+Some icons in the App.
+
+Link: 
+
+https://icons8.com/privacy-policy
+
+https://icons8.com/terms-and-conditions
+
+https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8
+
+-------------------------------------------------------------------------------------------------------------
+
+MaouDamashii
+
+Cooperation content: 
+
+Sound Effects in the App.
+
+Link: 
+
+https://maou.audio
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
 ### [Home](https://yytechplayer.github.io/Affirmation) 
 
 -------------------------------------------------------------------------------------------------------------
