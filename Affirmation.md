@@ -1,4 +1,4 @@
-## AFFIRMATIONS
+## AFFIRMATION
 
 ## PrivacyPolicy
 
