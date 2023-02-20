@@ -1,5 +1,16 @@
 ## 日記
 
+---------------------------------------------
+
+### 如果有任何想法有關於我們的App，請聯絡
+
+### Anything about our App ? Tell us
+
+### yytechplayer@qq.com
+
+
+---------------------------------------------
+
 
 一．《隱私政策》適用的範圍和內容
 
@@ -56,16 +67,7 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 
 
 
----------------------------------------------
 
-### 如果有任何想法有關於我們的App，請聯絡
-
-### Anything about our App ? Tell us
-
-### yytechplayer@qq.com
-
-
----------------------------------------------
 
 ### [Home](https://yytechplayer.github.io/TheDiary) 
 
