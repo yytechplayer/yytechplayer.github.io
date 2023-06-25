@@ -69,7 +69,7 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 
 ### Anything about our App ? Tell us
 
-### yytechplayer@qq.com
+### yytechplayer@outlook.com
 
 
 ---------------------------------------------
