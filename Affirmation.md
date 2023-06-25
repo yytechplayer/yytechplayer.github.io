@@ -156,7 +156,7 @@ https://maou.audio
 
 ### Anything about our App ? Tell me
 
-### yytechplayer@qq.com
+### yytechplayer@outlook.com
 
 -------------------------------------------------------------------------------------------------------------
 
