@@ -12,7 +12,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.4 You acknowledge that the App may communicate with our servers from time to time to check for updates to the App, such as bug fixes, patches, enhanced functions, missing plug-ins and new versions. By installing the App, you agree to such automatically requested and received updates.
 
-1.5 You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. You agree that if we disable access to the App, you may be prevented from accessing the App or certain features within the App.
+1.5 You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. 
 
 1.6 You may not distribute, publish, or send through an App: (1) any spam, including any unsolicited advertisements, solicitations, commercial messages, informational announcements, or promotional messages of any kind; (2) chain mail; (3) numerous copies of the same or substantially similar messages; (4) empty messages; (5) messages that contain no substantive content; (6) very large messages or files that disrupt a server, account, newsgroup, or chat service; or (7) any message that is categorized as 'phishing'.
 
