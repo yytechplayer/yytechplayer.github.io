@@ -24,7 +24,7 @@ The above authorizations are necessary, otherwise the related functions of the p
 
 ==============
 
-Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
+Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party. The current third-party service in this app is Apple's iCloud service, which is an optional feature in this application: If you choose to use the iCloud option in this app to backup your data to the Apple iCloud server, your data(on the iCloud server) protection applies to the privacy policy of that third party, the third party is Apple iCloud, and the privacy policy of that third party is the Apple privacy policy. 
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 ==============
 
-我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
+我們的產品可能支持第三方服務，並可能不時更換第三方的服務提供商。您理解並同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用於該第三方的隱私政策。此app中當前的第三方服務是Apple的iCloud服務，這是此app的可選功能：如果您選擇使用此app內的iClouds選項將您的數據備份到Apple iCloud服務器，則您的數據（在iCloud服務器上）保護適用於該第三方的隱私政策，第三方是Apple iCloud，該第三方的隱私政策是Apple隱私政策。
 
 -------------------------------------------------------------------------------------------------------------
 
