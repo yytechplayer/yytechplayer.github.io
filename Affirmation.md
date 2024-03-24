@@ -190,7 +190,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.1 You agree to use the App only for purposes that are permitted by (a) these Terms of Use and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions. You agree to comply with all local laws and regulations regarding the download, installation and/or use of the App.
 
-1.2 By using the App, you are consenting to our processing of data as set forth in our Privacy Policy [(网页链接 Our Privacy Policy is compliant with the General Data Protection Regulation (GDPR)].
+1.2 By using the App, you are consenting to our processing of data as set forth in our Privacy Policy, our Privacy Policy is compliant with the General Data Protection Regulation (GDPR).
 
 1.3 You agree that the App is not responsible or liable for any content accessed from the App or third-party websites. You agree that you are solely responsible for (and that the App has no responsibility to you or to any third party for) your use of the App.
 
