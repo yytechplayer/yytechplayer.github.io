@@ -89,7 +89,7 @@ https://maou.audio
 
 1.4您認可，此應用程序可能會不時與我們的服務器通信，以檢查應用程序的更新，如錯誤修復、補丁、增強功能、缺少插件和新版本。安裝此應用程序即表示您同意此類自動請求和接收的更新。
 
-1.5您同意，我們可自行決定（永久或暫時）停止向您或用戶提供應用程序（或應用程序中的任何功能），無需事先通知您。您同意，如果我們禁用對此應用程序的訪問，您可能會被阻止訪問此應用程序或此應用程序中的某些功能。
+1.5您同意，我們可自行決定（永久或暫時）停止向您或用戶提供應用程序（或應用程序中的任何功能），無需事先通知您。
 
 1.6您不得通過應用程序分發、發佈或發送：（1）任何垃圾郵件，包括任何未經請求的廣告、招攬、商業信息、信息公告或任何類型的促銷信息；（2）連鎖郵件；（3）相同或基本相似消息的多個副本；（4）空消息；（5）不包含實質性內容的信息；（6）破壞服務器、帳戶、新聞組或聊天服務的非常大的消息或文件；或（7）任何被歸類為「網絡釣魚」的消息。
 
@@ -196,7 +196,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.4 You acknowledge that the App may communicate with our servers from time to time to check for updates to the App, such as bug fixes, patches, enhanced functions, missing plug-ins and new versions. By installing the App, you agree to such automatically requested and received updates.
 
-1.5 You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. You agree that if we disable access to the App, you may be prevented from accessing the App or certain features within the App.
+1.5 You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. 
 
 1.6 You may not distribute, publish, or send through an App: (1) any spam, including any unsolicited advertisements, solicitations, commercial messages, informational announcements, or promotional messages of any kind; (2) chain mail; (3) numerous copies of the same or substantially similar messages; (4) empty messages; (5) messages that contain no substantive content; (6) very large messages or files that disrupt a server, account, newsgroup, or chat service; or (7) any message that is categorized as 'phishing'.
 
