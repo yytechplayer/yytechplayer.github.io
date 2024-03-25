@@ -17,7 +17,8 @@ If you do not agree to the revised "Privacy Policy", please immediately terminat
 We do not collect your personal information.
 
 Our products will ask you to obtain the following authorization during normal operation:
-Storage: Enter the storage space of your device for reading and managing data
+
+Face ID or Touch ID (if supported by your hardware device): used to unlock the app if you choose to enable the Face ID or Touch ID unlock feature within the app
 
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
@@ -108,7 +109,7 @@ We make no warranty as to the accuracy or reliability or suitability of any calc
 
 我們的產品將在正常運行期間向您要求獲得以下授權：
 
-1.存儲：為讀取和管理數據進入您設備的存儲空間
+Face ID 或 Touch ID（如果您的硬件設備支持相應的功能）: 用於解鎖應用程序如果你選擇開啓應用程序中的Face ID 或 Touch ID解鎖功能
 
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
