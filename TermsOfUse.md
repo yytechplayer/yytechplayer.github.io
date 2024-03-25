@@ -10,7 +10,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.3 You agree that the App is not responsible or liable for any content accessed from the App or third-party websites. You agree that you are solely responsible for (and that the App has no responsibility to you or to any third party for) your use of the App.
 
-1.4 You acknowledge that the App may communicate with our servers from time to time to check for updates to the App, such as bug fixes, patches, enhanced functions, missing plug-ins and new versions. By installing the App, you agree to such automatically requested and received updates.
+1.4 You acknowledge that the App may communicate with Apple App Store servers from time to time to check and obtain in-app purchase information. The in-app purchase information is stored on the Apple App Store servers. The Apple in-app purchase system in this App requires access to the Apple App Store servers to obtain and update the in-app purchase data. By installing the App, you agree to such automatically requested and received updates.
 
 1.5 You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. 
 
