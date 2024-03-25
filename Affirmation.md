@@ -28,10 +28,6 @@
 
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
-==============
-
-我們的產品可能支持第三方服務，並可能不時更換第三方服務商，您理解和同意，如果您通過我們的產品使用第三方服務，您的個人信息保護適用該第三方的隱私政策。
-
 -------------------------------------------------------------------------------------------------------------
 
 Apple Inc.
@@ -87,7 +83,7 @@ https://maou.audio
 
 1.3您同意此應用程序不對從此應用程序或第三方網站訪問的任何內容負責。您同意您對您使用此應用程序負有全部責任（此應用程序對您或任何第三方不承擔任何責任）。
 
-1.4您認可，此應用程序可能會不時與我們的服務器通信，以檢查應用程序的更新，如錯誤修復、補丁、增強功能、缺少插件和新版本。安裝此應用程序即表示您同意此類自動請求和接收的更新。
+1.4您認可，此應用程序可能會不時與蘋果應用商店服務器通信，以檢查和獲取應用內購買信息。應用內購買信息存儲在Apple App Store服務器上。此應用程序中的蘋果應用內購買系統要求訪問蘋果應用商店服務器以獲取和更新應用內購買數據。安裝此應用程序即表示您同意此類自動請求和接收的更新。
 
 1.5您同意，我們可自行決定（永久或暫時）停止向您或用戶提供應用程序（或應用程序中的任何功能），無需事先通知您。
 
@@ -135,9 +131,6 @@ Photos: Access the Photos if you use the Save Image in this app to save the app 
 
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
-==============
-
-Our products may support third-party services and may change third-party service providers from time to time. You understand and agree that if you use third-party services through our products, your personal information protection applies to the privacy policy of that third party.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -194,7 +187,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.3 You agree that the App is not responsible or liable for any content accessed from the App or third-party websites. You agree that you are solely responsible for (and that the App has no responsibility to you or to any third party for) your use of the App.
 
-1.4 You acknowledge that the App may communicate with our servers from time to time to check for updates to the App, such as bug fixes, patches, enhanced functions, missing plug-ins and new versions. By installing the App, you agree to such automatically requested and received updates.
+1.4 You acknowledge that the App may communicate with Apple App Store servers from time to time to check and obtain in-app purchase information. The in-app purchase information is stored on the Apple App Store servers. The Apple in-app purchase system in this App requires access to the Apple App Store servers to obtain and update the in-app purchase data. By installing the App, you agree to such automatically requested and received updates.
 
 1.5 You agree that we may stop (permanently or temporarily) providing the App (or any features within the App) to you or to users generally at our sole discretion, without prior notice to you. 
 
