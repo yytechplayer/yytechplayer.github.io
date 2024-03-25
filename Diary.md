@@ -20,7 +20,7 @@ Our products will ask you to obtain the following authorization during normal op
 
 Notifications: Send you notifications if you use the Reminder in this app
 
-Face ID or Touch ID (if supported by your hardware device): used to unlock the app if you choose to enable the Face ID or Touch ID unlock feature within the app.
+Face ID or Touch ID (if supported by your hardware device): used to unlock the app if you choose to enable the Face ID or Touch ID unlock feature within the app
 
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
@@ -109,7 +109,7 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.通知: 發送通知給你如果你在此app中使用通知功能
 
-2.Face ID 或 Touch ID（如果您的硬件設備支持相應的功能）: 用於解鎖應用程序如果你選擇開啓應用程序中的Face ID 或 Touch ID解鎖功能。
+2.Face ID 或 Touch ID（如果您的硬件設備支持相應的功能）: 用於解鎖應用程序如果你選擇開啓應用程序中的Face ID 或 Touch ID解鎖功能
 
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
