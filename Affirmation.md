@@ -26,7 +26,7 @@
 
 4.照片: 訪問照片如果你選擇此app中的保存屏幕截圖功能將圖片存儲到系統相冊
 
-5.Face ID 或 Touch ID（如果您的硬件設備支持相應的功能）: 用於解鎖應用程序如果你選擇開啓應用程序中的Face ID 或 Touch ID解鎖功能。
+5.Face ID 或 Touch ID（如果您的硬件設備支持相應的功能）: 用於解鎖應用程序如果你選擇開啓應用程序中的Face ID 或 Touch ID解鎖功能
 
 上述授權均為必要，否則產品的相關功能可能無法按設計運行。
 
@@ -131,7 +131,7 @@ Photos: Access the Photos if you use the Photos to set a picture as the backgrou
 
 Photos: Access the Photos if you use the Save Image in this app to save the app screen capture to the Photo library
 
-Face ID or Touch ID (if supported by your hardware device): used to unlock the app if you choose to enable the Face ID or Touch ID unlock feature within the app.
+Face ID or Touch ID (if supported by your hardware device): used to unlock the app if you choose to enable the Face ID or Touch ID unlock feature within the app
 
 The above authorizations are necessary, otherwise the related functions of the product may not be able to operate as designed.
 
