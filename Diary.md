@@ -90,6 +90,16 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 -------------------------------------------------------------------------------------------------------------
 
+Forgot password:
+
+Please make sure you're using the latest version.
+
+You can also use the Face ID unlock feature in this app(Please enter your Face ID information in your iOS system settings, if you have already set it up, please ignore this step).
+
+If you cannot remember any other password information now, you can tap the "<" button at the bottom right of the password interface 50 times(or more) to forcibly invoke the Face ID verification to unlock the application.
+
+-------------------------------------------------------------------------------------------------------------
+
 
 一．《隱私政策》適用的範圍和內容
 
@@ -178,6 +188,16 @@ https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimed
 
 3.2對於因您使用或無法使用本應用程序而造成的任何損害，我們不承擔任何責任。對於您可能對我們提出的任何索賠，我們對金錢損失的責任僅限於您為應用程序實際支付的金額。
 
+
+---------------------------------------------
+
+忘记密码：
+
+请确保您使用的是最新版本app。
+
+您还可以使用此应用程序中的Face ID解锁功能（请在iOS系统设置中输入您的Face ID信息，如果您已经设置了，请忽略此步骤）。
+
+如果您现在不记得任何其他密码信息，您可以点击密码界面右下角的“<”按钮50次（或更多次），强制调用Face ID验证以解锁应用程序。
 
 ---------------------------------------------
 
