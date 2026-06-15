@@ -15,7 +15,11 @@ We are committed to protecting your privacy by designing the App to function ent
 D. In-App Purchases and Apple’s Privacy Policy
 The App may offer in-app purchases. All in-app purchases are processed entirely by Apple through the App Store. We do not receive, collect, or store any of your payment information, billing details, or purchase history. Apple may process your data in accordance with its own privacy policy. We encourage you to review Apple’s Privacy Policy at: https://www.apple.com/legal/privacy/
 
+
+
 -------------------------------------------------------------------------------------------------------------
+
+
 
 ## TERMS 
 
