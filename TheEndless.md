@@ -68,8 +68,6 @@ We provide the App to you subject to these Terms of Service. If you do not accep
 
 5.2 Because we do not collect user information, have no server‑side records, and cannot access your device data, all transactions are processed by Apple, and we are technically unable to verify whether an account has made a purchase, which in‑app item was purchased, or whether a refund has been processed through Apple’s procedures. Therefore, all refund requests must be directed to Apple.
 
-5.3 While in‑app purchase entitlements can typically be restored by using Apple’s “Restore Purchases” feature, any associated in‑app virtual items, progress, or data that are stored only on your device may be permanently lost if the User Data is not backed up as described in these Terms. We recommend backing up your device before restoring purchases.
-
 #### 6. Acknowledgment of Risk
 
 By installing and using the App, you expressly acknowledge and agree that you understand the data storage and backup practices described above, and that you assume all risks associated with the potential loss of your User Data if you fail to create and maintain device backups in accordance with these Terms.
