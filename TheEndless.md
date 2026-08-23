@@ -64,7 +64,7 @@ We provide the App to you subject to these Terms of Service. If you do not accep
 
 #### 5. In‑App Purchases and Refunds
 
-5.1 The App may offer in‑app purchases that are processed solely by Apple’s App Store. The purchase, management, and restoration of in‑app purchases are governed by Apple’s terms and conditions. We do not collect any record of your purchase history.
+5.1 The App may offer in‑app purchases that are processed solely by Apple’s App Store. The purchase, management, and handling of in‑app purchases are governed by Apple’s terms and conditions. We do not collect any record of your purchase history.
 
 5.2 Because we do not collect user information, have no server‑side records, and cannot access your device data, all transactions are processed by Apple, and we are technically unable to verify whether an account has made a purchase, which in‑app item was purchased, or whether a refund has been processed through Apple’s procedures. Therefore, all refund requests must be directed to Apple.
 
