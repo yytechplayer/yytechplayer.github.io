@@ -30,13 +30,13 @@ We provide the App to you subject to these Terms of Service. If you do not accep
 
 1.1 You agree to use the App only for purposes that are permitted by (a) these Terms of Service and (b) any applicable laws, regulations, or generally accepted practices or guidelines in the relevant jurisdictions. You agree to comply with all local laws and regulations regarding the downloading, installation and/or use of the App.
 
-1.2 By using the App, you agree to our processing of data in accordance with our Privacy Policy.
+1.2 By using the App, you agree to the data practices described in our Privacy Policy.
 
 1.3 You agree that the App is not responsible for any content accessed from the App or from third‑party websites. You agree that you are solely responsible for your use of the App (and the App assumes no liability to you or any third party).
 
 1.4 You acknowledge that the App may, from time to time, communicate with Apple App Store servers to check for and obtain in‑app purchase information. In‑app purchase information is stored on Apple App Store servers. The in‑app purchase system within the App requires access to Apple App Store servers to obtain and update in‑app purchase data. By installing the App, you consent to such automatic requests and updates.
 
-1.5 You agree that we may, in our sole discretion, (permanently or temporarily) stop providing the App (or any feature within the App) to you or to users generally without prior notice.
+1.5 We may, in our sole discretion, stop offering the App for download on the App Store, or stop providing updates and support for the App, at any time without prior notice. If the App is removed from the App Store, users who have already downloaded and installed the App may continue to use it on their devices, provided that the App remains compatible with the operating system version installed on those devices. We do not guarantee that the App will remain compatible with future versions of iOS or that any updates will be provided.
 
 1.6 You may not distribute, publish, or send through the App: (1) any spam, including any unsolicited advertisements, solicitations, commercial messages, informational announcements, or promotional messages of any kind; (2) chain mail; (3) multiple copies of the same or substantially similar message; (4) empty messages; (5) messages that contain no substantive content; (6) very large messages or files that disrupt servers, accounts, newsgroups, or chat services; or (7) any message that is classified as “phishing”.
 
@@ -60,7 +60,7 @@ We provide the App to you subject to these Terms of Service. If you do not accep
 
 4.3 Data Recovery. The method to restore your User Data after deletion of the App or after a device change is to restore a complete device backup that was created while the App and its User Data were present on the device, using iTunes (or Finder on macOS Catalina and later). After a successful device restore, the App will be reinstalled along with the backed‑up User Data. We do not have access to your User Data and cannot assist with or perform any data recovery beyond making the App available on the App Store.
 
-4.4 No Liability for Data Loss. Without limiting the generality of the limitation of liability set forth in Section 3, we shall not be liable for any loss, corruption, deletion, or unavailability of User Data, howsoever caused, including due to your failure to perform a backup, backup failure, App deletion, device replacement, operating system updates, jailbreaking, device failure, or accidental reset. We will not provide compensation for any loss of game progress, character data, or virtual items resulting from the absence of a backup or a failed backup.
+4.4 Except in cases of our gross negligence or willful misconduct, we shall not be liable for any loss, corruption, deletion, or unavailability of User Data. Without limiting the generality of the limitation of liability set forth in Section 3, we shall not be liable for any loss, corruption, deletion, or unavailability of User Data, howsoever caused, including due to your failure to perform a backup, backup failure, App deletion, device replacement, operating system updates, jailbreaking, device failure, or accidental reset. We will not provide compensation for any loss of game progress, character data, or virtual items resulting from the absence of a backup or a failed backup. Nothing in these Terms shall exclude or limit any rights you may have under applicable consumer protection laws that cannot be excluded or limited by law.
 
 #### 5. In‑App Purchases and Refunds
 
